@@ -1,0 +1,14 @@
+{
+    "routes": [
+        {
+            "src": "/api/form",
+            "headers": [
+                {
+                    "key": "Access-Control-Allow-Origin",
+                    "value": "*"
+                }
+            ]
+        }
+    ],
+    
+}
