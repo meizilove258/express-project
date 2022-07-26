@@ -1,0 +1,12 @@
+{
+  "name": "express-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:meizilove258/express-project.git",
+  "author": "zhangjinmei <1075487618@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-cors": "^0.0.3"
+  }
+}
