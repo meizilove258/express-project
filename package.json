@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "zhangjinmei <1075487618@qq.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "express": "^4.18.1",
     "express-cors": "^0.0.3"
